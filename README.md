@@ -1,2 +1,2 @@
-# my_practice_for_scikit-learn
-scikit-learnの練習
+# practice_for_data_science
+data_scienceの練習用リポジトリ
